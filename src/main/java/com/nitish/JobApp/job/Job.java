@@ -1,4 +1,4 @@
-package com.nitish.JobApp;
+package com.nitish.JobApp.job;
 
 public class Job {
     private Long id;
